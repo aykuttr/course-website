@@ -1,0 +1,165 @@
+---
+title: "Week 01"
+subtitle: "Authoritarianism and the Problem of Disinformation"
+toc: true
+toc-title: "On this page"
+toc-depth: 3
+toc-expand: true
+---
+
+[← Back to Weekly Readings](readings.qmd)
+
+## Required Reading
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1080/13510347.2019.1582029">A Third Wave of Autocratization Is Here: What Is New About It?</a></h3>
+
+<p class="reading-authors">Anna Lührmann and Staffan I. Lindberg</p>
+
+<p class="reading-meta"><em>Democratization</em> (2019)</p>
+
+</div>
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1177/10659129241252811">Disinformation and Regime Survival</a></h3>
+
+<p class="reading-authors">Yuko Sato and Felix Wiebrecht</p>
+
+<p class="reading-meta"><em>Political Research Quarterly</em> (2024)</p>
+
+</div>
+
+<div class="reading-card">
+
+<div class="reading-type">BOOK</div>
+
+<h3>Franco: The Biography of the Myth</h3>
+
+<p class="reading-authors">Antonio Cazorla Sánchez</p>
+
+<p class="reading-meta">Routledge (2013)</p>
+
+<p class="reading-guidance"><strong>Reading guidance:</strong> Read the Introduction only.</p>
+
+</div>
+
+
+## Further Reading
+
+### Defining Authoritarianism
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>Anna Lührmann, Marcus Tannenberg and Staffan I. Lindberg</strong><br>
+<a href="https://doi.org/10.17645/pag.v6i1.1214">“Regimes of the World (RoW): Opening New Avenues for the Comparative Study of Political Regimes”</a><br>
+<em>Politics and Governance</em> (2018)
+</div>
+
+<div class="further-item">
+<strong>Natasha M. Ezrow and Erica Frantz</strong><br>
+<em>Dictators and Dictatorships: Understanding Authoritarian Regimes and Their Leaders</em><br>
+Bloomsbury/Continuum (2011)<br>
+<span class="reading-note"><strong>Reading guidance:</strong> Chapter 1, “Authoritarian Politics: Typologies.”</span>
+</div>
+
+<div class="further-item">
+<strong>Jennifer Gandhi</strong><br>
+<a href="https://doi.org/10.1017/CBO9780511510090"><em>Political Institutions under Dictatorship</em></a><br>
+Cambridge University Press (2008)<br>
+<span class="reading-note"><strong>Reading guidance:</strong> Chapter 1, “The World of Dictatorial Institutions.”</span>
+</div>
+
+</div>
+
+
+### The State of the World
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>Vanessa A. Boese, Martin Lundstedt, Kelly Morrison, Yuko Sato and Staffan I. Lindberg</strong><br>
+<a href="https://doi.org/10.1080/13510347.2022.2069751">“State of the World 2021: Autocratization Changing Its Nature?”</a><br>
+<em>Democratization</em> (2022)
+</div>
+
+<div class="further-item">
+<strong>W. Lance Bennett and Steven Livingston</strong><br>
+<a href="https://doi.org/10.1177/0267323118760317">“The Disinformation Order: Disruptive Communication and the Decline of Democratic Institutions”</a><br>
+<em>European Journal of Communication</em> (2018)
+</div>
+
+</div>
+
+
+### What Do We Know About Propaganda?
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>Bryn Rosenfeld and Jeremy Wallace</strong><br>
+<a href="https://doi.org/10.1146/annurev-polisci-041322-035951">“Information Politics and Propaganda in Authoritarian Societies”</a><br>
+<em>Annual Review of Political Science</em> (2024)
+</div>
+
+<div class="further-item">
+<strong>Alexander Bor</strong><br>
+<a href="https://theconversation.com/viktor-orbans-election-loss-shows-the-limits-of-his-propaganda-machine-280439">“Viktor Orbán’s Election Loss Shows the Limits of His Propaganda Machine”</a><br>
+<em>The Conversation</em> (2026)
+</div>
+
+</div>
+
+
+### Public Support for Authoritarianism
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>Johannes Gerschewski</strong><br>
+<a href="https://doi.org/10.1080/13510347.2013.738860">“The Three Pillars of Stability: Legitimation, Repression, and Co-optation in Autocratic Regimes”</a><br>
+<em>Democratization</em> (2013)
+</div>
+
+<div class="further-item">
+<strong>Anja Neundorf, Aykut Ozturk, Ksenia Northmore-Ball, Katerina Tertytchnaya and Johannes Gerschewski</strong><br>
+<a href="https://doi.org/10.1177/00104140241283006">“A Loyal Base: Support for Authoritarian Regimes in Times of Crisis”</a><br>
+<em>Comparative Political Studies</em> (2025)
+</div>
+
+<div class="further-item">
+<strong>Andrew J. Nathan</strong><br>
+<a href="https://www.journalofdemocracy.org/articles/the-puzzle-of-authoritarian-legitimacy/">“The Puzzle of Authoritarian Legitimacy”</a><br>
+<em>Journal of Democracy</em> (2020)
+</div>
+
+<div class="further-item">
+<strong>Anja Neundorf and Grigore Pop-Eleches</strong><br>
+<a href="https://doi.org/10.1177/0010414020926203">“Dictators and Their Subjects: Authoritarian Attitudinal Effects and Legacies”</a><br>
+<em>Comparative Political Studies</em> (2020)
+</div>
+
+<div class="further-item">
+<strong>Lily L. Tsai</strong><br>
+<a href="https://doi.org/10.1017/9781108882545"><em>When People Want Punishment: Retributive Justice and the Puzzle of Authoritarian Popularity</em></a><br>
+Cambridge University Press (2021)<br>
+<span class="reading-note"><strong>Reading guidance:</strong> Chapter 1, “The Puzzle of Authoritarian Popularity.”</span>
+</div>
+
+<div class="further-item">
+<strong>Alexander Dukalskis and Johannes Gerschewski</strong><br>
+<a href="https://doi.org/10.1080/13569775.2017.1304320">“What Autocracies Say (and What Citizens Hear): Proposing Four Mechanisms of Autocratic Legitimation”</a><br>
+<em>Contemporary Politics</em> (2017)
+</div>
+
+</div>
+
+---
+
+[← Back to Weekly Readings](readings.qmd)

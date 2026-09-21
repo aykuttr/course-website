@@ -1,0 +1,122 @@
+---
+title: "Week 09"
+subtitle: "Authoritarian Public Diplomacy in the 21st Century"
+toc: true
+toc-title: "On this page"
+toc-depth: 3
+toc-expand: true
+---
+
+[← Back to Weekly Readings](readings.qmd)
+
+## Lecture Readings
+
+Read the chapters indicated below and skim the remainder of each book.
+
+
+<div class="reading-card">
+
+<div class="reading-type">BOOK</div>
+
+<h3><a href="https://doi.org/10.1093/oso/9780197520130.001.0001">Making the World Safe for Dictatorship</a></h3>
+
+<p class="reading-authors">Alexander Dukalskis</p>
+
+<p class="reading-meta">Oxford University Press (2021)</p>
+
+<p class="reading-guidance"><strong>Reading guidance:</strong> Read Chapter 3, “Mechanisms of Authoritarian Image Management.” Skim the rest.</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">BOOK</div>
+
+<h3><a href="https://doi.org/10.1093/oso/9780197776360.001.0001">Dictating the Agenda: Authoritarian Resurgence & Influence in World Politics</a></h3>
+
+<p class="reading-authors">Alexander Cooley and Alexander Dukalskis</p>
+
+<p class="reading-meta">Oxford University Press (2025)</p>
+
+<p class="reading-guidance"><strong>Reading guidance:</strong> Read Chapters 1 and 4. Skim the rest.</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">BOOK</div>
+
+<h3><a href="https://doi.org/10.1017/9781108874700">Chinese Soft Power</a></h3>
+
+<p class="reading-authors">Maria Repnikova</p>
+
+<p class="reading-meta">Cambridge University Press (2022)</p>
+
+</div>
+
+
+### Other Readings
+
+These readings broaden the discussion to public diplomacy and international communication by other authoritarian states.
+
+
+<div class="reading-card">
+
+<div class="reading-type">BOOK</div>
+
+<h3><a href="https://doi.org/10.4324/9781032650524">How Disinformation Ruins Public Diplomacy: Unfair Competition</a></h3>
+
+<p class="reading-authors">Juan Luis Manfredi Sánchez</p>
+
+<p class="reading-meta">Routledge (2026)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">BOOK</div>
+
+<h3><a href="https://www.press.uillinois.edu/books/?id=p087998">Talking Back to the West: How Turkey Uses Counter-Hegemony to Reshape the Global Communication Order</a></h3>
+
+<p class="reading-authors">Bilge Yesil</p>
+
+<p class="reading-meta">University of Illinois Press (2024)</p>
+
+<p class="reading-guidance"><strong>Reading guidance:</strong> Read the Introduction.</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">BOOK</div>
+
+<h3><a href="https://hurstpublishers.com/book/digital-authoritarianism-in-the-middle-east/">Digital Authoritarianism in the Middle East: Deception, Disinformation and Social Media</a></h3>
+
+<p class="reading-authors">Marc Owen Jones</p>
+
+<p class="reading-meta">Hurst (2022)</p>
+
+<p class="reading-guidance"><strong>Reading guidance:</strong> See Part 4.</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1080/01436597.2022.2146578">Manufacturing the Ummah: Turkey’s Transnational Populism and Construction of the People Globally</a></h3>
+
+<p class="reading-authors">Ihsan Yilmaz and Mustafa Demir</p>
+
+<p class="reading-meta"><em>Third World Quarterly</em> (2023)</p>
+
+</div>
+
+---
+
+[← Back to Weekly Readings](readings.qmd)

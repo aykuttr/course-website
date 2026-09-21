@@ -1,0 +1,381 @@
+/* =========================================================
+   GENERAL SITE STYLING
+   ========================================================= */
+
+body {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+main.content {
+  max-width: 1200px;
+}
+
+h1 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  margin-top: 2.8rem;
+  margin-bottom: 1.2rem;
+}
+
+h3 {
+  line-height: 1.35;
+}
+
+a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.navbar-brand {
+  font-weight: 600;
+}
+
+.content {
+  padding-top: 1.5rem;
+  padding-bottom: 4rem;
+}
+
+
+/* =========================================================
+   OVERVIEW PAGE: MAIN TWO-COLUMN LAYOUT
+   ========================================================= */
+
+.index-layout {
+  display: grid !important;
+  grid-template-columns: minmax(0, 2fr) minmax(300px, 0.9fr);
+  gap: 3.2rem;
+  align-items: start;
+  width: 100%;
+}
+
+.index-main {
+  min-width: 0;
+}
+
+.course-books {
+  min-width: 0;
+  position: sticky;
+  top: 5rem;
+}
+
+.course-books h2 {
+  margin-top: 2.8rem;
+  margin-bottom: 1.4rem;
+}
+
+
+/* =========================================================
+   OVERVIEW PAGE: CASES
+   ========================================================= */
+
+.case-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.case-item {
+  border: 1px solid #e2e2e2;
+  border-radius: 10px;
+  padding: 1.25rem 1.3rem;
+  background: #ffffff;
+  line-height: 1.55;
+}
+
+
+/* =========================================================
+   OVERVIEW PAGE: COURSE JOURNEY
+   ========================================================= */
+
+.course-part {
+  border-left: 4px solid #d4d4d4;
+  padding: 0.3rem 0 0.5rem 1.3rem;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.course-part h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.course-part p {
+  margin-bottom: 0;
+}
+
+/* =========================================================
+   OVERVIEW PAGE: BOOK COVERS
+   ========================================================= */
+
+.course-books {
+  min-width: 0;
+  position: static;
+}
+
+.book-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.2rem;
+  width: 100%;
+}
+
+.book-item {
+  text-align: center;
+}
+
+.book-item img {
+  width: 160px;
+  height: 230px;
+  object-fit: contain;
+  background: #ffffff;
+  border: 1px solid #e2e2e2;
+  border-radius: 7px;
+  padding: 0.3rem;
+  box-shadow: 0 5px 14px rgba(0, 0, 0, 0.11);
+  display: block;
+  margin: 0 auto;
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.book-item img:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 9px 22px rgba(0, 0, 0, 0.16);
+}
+/* =========================================================
+   WEEKLY READINGS PAGE
+   ========================================================= */
+
+.week-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.4rem;
+  margin-top: 2.5rem;
+}
+
+.week-card {
+  padding: 1.6rem 1.7rem;
+  border: 1px solid #e2e2e2;
+  border-radius: 10px;
+  background: #ffffff;
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.week-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+.week-number {
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  margin-bottom: 0.65rem;
+  color: #666;
+}
+
+.week-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.7rem;
+  font-size: 1.25rem;
+  line-height: 1.3;
+}
+
+.week-card h3 a {
+  text-decoration: none;
+}
+
+.week-card h3 a:hover {
+  text-decoration: underline;
+}
+
+.week-card p {
+  margin-bottom: 0;
+  color: #666;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.week-break {
+  grid-column: 1 / -1;
+  padding: 0.9rem 0;
+  text-align: center;
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.10em;
+  color: #888;
+}
+
+
+/* =========================================================
+   REQUIRED / LECTURE READING CARDS
+   ========================================================= */
+
+.reading-card {
+  border: 1px solid #e2e2e2;
+  border-radius: 10px;
+  padding: 1.4rem 1.5rem;
+  margin: 1.2rem 0;
+  background: #ffffff;
+}
+
+.reading-type {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  color: #777;
+  margin-bottom: 0.5rem;
+}
+
+.reading-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+  line-height: 1.35;
+}
+
+.reading-card h3 a {
+  text-decoration: none;
+}
+
+.reading-card h3 a:hover {
+  text-decoration: underline;
+}
+
+.reading-authors {
+  font-weight: 600;
+  margin-bottom: 0.35rem;
+}
+
+.reading-meta {
+  color: #666;
+  margin-bottom: 0;
+}
+
+.reading-guidance {
+  margin-top: 0.9rem;
+  margin-bottom: 0;
+}
+
+
+/* =========================================================
+   FURTHER READINGS
+   ========================================================= */
+
+.further-reading {
+  margin: 0.8rem 0 2rem 0;
+}
+
+.further-item {
+  padding: 0.9rem 0;
+  border-bottom: 1px solid #e8e8e8;
+  line-height: 1.55;
+}
+
+.further-item:first-child {
+  border-top: 1px solid #e8e8e8;
+}
+
+.further-item.reading-pending {
+  color: #888;
+  font-style: italic;
+}
+
+
+/* =========================================================
+   SMALL VISUAL DETAILS
+   ========================================================= */
+
+blockquote {
+  border-left: 4px solid #ddd;
+  padding-left: 1rem;
+  color: #555;
+}
+
+hr {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-color: #e8e8e8;
+}
+
+
+/* =========================================================
+   TABLETS
+   ========================================================= */
+
+@media (max-width: 1050px) {
+
+  .index-layout {
+    grid-template-columns: minmax(0, 1.7fr) minmax(260px, 0.8fr);
+    gap: 2rem;
+  }
+
+  .book-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .book-item img {
+    height: 175px;
+  }
+
+}
+
+
+/* =========================================================
+   MOBILE / SMALL TABLETS
+   ========================================================= */
+
+@media (max-width: 800px) {
+
+  .index-layout {
+    display: block !important;
+  }
+
+  .course-books {
+    position: static;
+    margin-top: 3rem;
+  }
+
+  .book-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+  }
+
+  .book-item img {
+    height: 180px;
+  }
+
+  .case-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .week-grid {
+    grid-template-columns: 1fr;
+  }
+
+}
+
+
+/* =========================================================
+   SMALL PHONES
+   ========================================================= */
+
+@media (max-width: 500px) {
+
+  .book-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .book-item img {
+    height: 200px;
+  }
+
+}

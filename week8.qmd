@@ -1,0 +1,210 @@
+---
+title: "Week 08"
+subtitle: "Fighting Authoritarian Propaganda"
+toc: true
+toc-title: "On this page"
+toc-depth: 3
+toc-expand: true
+---
+
+[← Back to Weekly Readings](readings.qmd)
+
+## Lecture Readings
+
+During the lecture, we will especially focus on **Opposition through Humor** and **Critical Journalism**. However, we will also briefly discuss the other two topics.
+
+
+### Opposition Political Communication
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1111/j.1548-2456.2015.00267.x">Voting for Democracy: Campaign Effects in Chile's Democratic Transition</a></h3>
+
+<p class="reading-authors">Taylor C. Boas</p>
+
+<p class="reading-meta"><em>Latin American Politics and Society</em> (2015)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1017/S1475676525100583">Keep Positive and Defend Democracy: Framing Democratic Messages under Authoritarianism</a></h3>
+
+<p class="reading-authors">Aykut Öztürk, Steven E. Finkel, Anja Neundorf and Ericka Rascón Ramírez</p>
+
+<p class="reading-meta"><em>European Journal of Political Research</em> (2026)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">WEB ARTICLE</div>
+
+<h3><a href="https://www.journalofdemocracy.org/online-exclusive/how-to-defeat-the-authoritarian-message/">How to Defeat the Authoritarian Message</a></h3>
+
+<p class="reading-authors">Filip Milačić</p>
+
+<p class="reading-meta"><em>Journal of Democracy</em> (2026)</p>
+
+</div>
+
+
+### Opposition through Humor
+
+<div class="reading-card">
+
+<div class="reading-type">BOOK</div>
+
+<h3><a href="https://press.uchicago.edu/ucp/books/book/chicago/A/bo22776830.html">Ambiguities of Domination: Politics, Rhetoric, and Symbols in Contemporary Syria</a></h3>
+
+<p class="reading-authors">Lisa Wedeen</p>
+
+<p class="reading-meta">University of Chicago Press (2015 edition)</p>
+
+<p class="reading-guidance"><strong>Reading guidance:</strong> Chapter 4, “Signs of Transgression.”</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1177/0032321718791373">The Road to Cynicism: The Political Consequences of Online Satire Exposure in China</a></h3>
+
+<p class="reading-authors">Li Shao and Dongshu Liu</p>
+
+<p class="reading-meta"><em>Political Studies</em> (2019)</p>
+
+</div>
+
+
+### Critical Journalism
+
+<div class="reading-card">
+
+<div class="reading-type">BOOK CHAPTER</div>
+
+<h3><a href="https://doi.org/10.1093/oso/9780190093488.003.0005">Critical Journalists in China and Russia: Encounters with Ambiguity</a></h3>
+
+<p class="reading-authors">Maria Repnikova</p>
+
+<p class="reading-meta">In <em>Citizens and the State in Authoritarian Regimes: Comparing China and Russia</em> (2020)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1080/1060586X.2022.2065840">Independent Media under Pressure: Evidence from Russia</a></h3>
+
+<p class="reading-authors">Tom Paskhalis, Bryn Rosenfeld and Katerina Tertytchnaya</p>
+
+<p class="reading-meta"><em>Post-Soviet Affairs</em> (2022)</p>
+
+</div>
+
+
+### Opposition through Popular Culture
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1080/13530194.2021.1885849">The Empire’s Opposition Strikes Back: Popular Culture as Creative Resistance Tool under Turkey’s AKP</a></h3>
+
+<p class="reading-authors">Lisel Hintz</p>
+
+<p class="reading-meta"><em>British Journal of Middle Eastern Studies</em> (2021)</p>
+
+</div>
+
+
+## Further Readings
+
+### More on Opposition Political Communication
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>Aikande Clement Kwayu</strong><br>
+<a href="https://doi.org/10.1177/13540688211041039">“Determinants of a Political Party’s Social Media Strategy: A Comparative Analysis of Tanzania’s Opposition Political Parties’ Twitter Practices”</a><br>
+<em>Party Politics</em> (2022)
+</div>
+
+<div class="further-item">
+<strong>Leonid Peisakhin, Arturas Rozenas and Sergey Sanovich</strong><br>
+<a href="https://doi.org/10.1177/2053168020970746">“Mobilizing Opposition Voters under Electoral Authoritarianism: A Field Experiment in Russia”</a><br>
+<em>Research & Politics</em> (2020)
+</div>
+
+<div class="further-item">
+<strong>Valerie J. Bunce and Sharon L. Wolchik</strong><br>
+<a href="https://doi.org/10.1017/S0043887109990207">“Defeating Dictators: Electoral Change and Stability in Competitive Authoritarian Regimes”</a><br>
+<em>World Politics</em> (2010)
+</div>
+
+</div>
+
+
+### More on Political Humor
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>Saifuddin Ahmed and Muhammad Masood</strong><br>
+<a href="https://doi.org/10.1177/20563051241261277">“Breaking Barriers With Memes: How Memes Bridge Political Cynicism to Online Political Participation”</a><br>
+<em>Social Media + Society</em> (2024)
+</div>
+
+<div class="further-item">
+<strong>Jessica Winegar</strong><br>
+<a href="https://doi.org/10.1080/13530194.2021.1885857">“The Power of Nonsense: Humour in Egypt’s Counter/Revolution”</a><br>
+<em>British Journal of Middle Eastern Studies</em> (2021)
+</div>
+
+<div class="further-item">
+<strong>Galina Miazhevich</strong><br>
+<a href="https://doi.org/10.1177/0163443714567015">“Sites of Subversion: Online Political Satire in Two Post-Soviet States”</a><br>
+<em>Media, Culture & Society</em> (2015)
+</div>
+
+</div>
+
+
+### More on Artistic Productions
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>Molly Flynn</strong><br>
+<a href="https://doi.org/10.7765/9781526126207"><em>Witness Onstage: Documentary Theatre in Twenty-First-Century Russia</em></a><br>
+Manchester University Press (2019)
+</div>
+
+<div class="further-item">
+<strong>Dorottya Rédai</strong><br>
+<a href="https://doi.org/10.1080/10894160.2023.2255044">“Lesbian Resistance through Fairytales: The Story of a Children’s Book Clashing with an Authoritarian Anti-Gender Regime in Hungary”</a><br>
+<em>Journal of Lesbian Studies</em> (2024)
+</div>
+
+<div class="further-item">
+<strong>James Rowson</strong><br>
+<a href="https://pure.royalholloway.ac.uk/en/publications/politics-and-putinism-a-critical-examination-of-new-russian-drama"><em>Politics and Putinism: A Critical Examination of New Russian Drama</em></a><br>
+Doctoral thesis, Royal Holloway, University of London (2017)<br>
+<strong>Reading guidance:</strong> Chapter 2, which discusses <em>BerlusPutin</em>.
+</div>
+
+</div>
+
+---
+
+[← Back to Weekly Readings](readings.qmd)

@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "Propaganda and Public Diplomacy"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Overview
+      - href: readings.qmd
+        text: Weekly Readings
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

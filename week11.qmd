@@ -1,0 +1,223 @@
+---
+title: "Week 11"
+subtitle: "Fighting Foreign Disinformation"
+toc: true
+toc-title: "On this page"
+toc-depth: 3
+toc-expand: true
+---
+
+[← Back to Weekly Readings](readings.qmd)
+
+## Lecture Readings
+
+<div class="reading-card">
+
+<div class="reading-type">REPORT</div>
+
+<h3>Information Integrity Online and the European Democracy Shield</h3>
+
+<p class="reading-authors">Naja Bentzen</p>
+
+<p class="reading-meta">European Parliamentary Research Service (2024)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">REPORT</div>
+
+<h3>Facts not Fakes: Tackling Disinformation, Strengthening Information Integrity</h3>
+
+<p class="reading-authors">OECD</p>
+
+<p class="reading-meta">OECD Publishing (2024)</p>
+
+<p class="reading-guidance"><strong>Reading guidance:</strong> This is a long document. Read the Executive Summary and skim the remaining chapters.</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">REPORT</div>
+
+<h3>Countering Disinformation in the Euro-Atlantic: Strengths and Gaps</h3>
+
+<p class="reading-authors">Jakub Kalenský and Heidi Hanhijärvi</p>
+
+<p class="reading-meta">Hybrid CoE Research Report 15 (2025)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1177/15701255251318900">Policy Review: Countering Disinformation in the Digital Age — Policies and Initiatives to Safeguard Democracy in Europe</a></h3>
+
+<p class="reading-authors">Alessia D’Andrea, Giorgia Fusacchia and Arianna D’Ulizia</p>
+
+<p class="reading-meta"><em>Information Polity</em> (2025)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1057/s41599-024-02605-5">Beyond Online Disinformation: Assessing National Information Resilience in Four European Countries</a></h3>
+
+<p class="reading-authors">Marius Dragomir, José Rúas-Araújo and Minna Horowitz</p>
+
+<p class="reading-meta"><em>Humanities and Social Sciences Communications</em> (2024)</p>
+
+</div>
+
+
+## Further Readings
+
+### Lessons from Ukraine
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>Jakub Kalenský and Roman Osadchuk</strong><br>
+<em>How Ukraine Fights Russian Disinformation: Beehive vs Mammoth</em><br>
+Hybrid CoE Research Report 11 (2024)
+</div>
+
+<div class="further-item">
+<strong>Marina Pesenti and Peter Pomerantsev</strong><br>
+<em>How to Stop Disinformation: Lessons from Ukraine for the Wider World</em><br>
+Legatum Institute (2016)
+</div>
+
+<div class="further-item">
+<strong>Todd C. Helmus and Khrystyna Holynska</strong><br>
+<em>Ukrainian Resistance to Russian Disinformation: Lessons for Future Conflict</em><br>
+RAND Corporation (2024)
+</div>
+
+</div>
+
+
+### More on National Resilience Policies
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>UK Government Communications</strong><br>
+<em>RESIST 3: Building Resilience to Information Threats</em><br>
+UK Government (2025)
+</div>
+
+<div class="further-item">
+<strong>Jean-Baptiste Jeangène Vilmer</strong><br>
+<em>Effective State Practices Against Disinformation: Four Country Case Studies</em><br>
+Hybrid CoE Research Report 2 (2021)
+</div>
+
+<div class="further-item">
+<strong>Flavia Durach, Mălina Ciocea and Cătălina Nastasiu</strong><br>
+<a href="https://doi.org/10.17645/mac.9529">“Countering Disinformation: A Delicate Balance Between International Action and National Particularities”</a><br>
+<em>Media and Communication</em> (2025)
+</div>
+
+</div>
+
+
+### More on EU Policies
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>European Commission and High Representative of the Union for Foreign Affairs and Security Policy</strong><br>
+<em>European Democracy Shield: Empowering Strong and Resilient Democracies</em><br>
+Joint Communication (2025)<br>
+<strong>Reading guidance:</strong> Focus especially on the first 10 pages.
+</div>
+
+<div class="further-item">
+<strong>Lucas Proto, Paula Lamoso-González and Luis Bouza García</strong><br>
+<a href="https://doi.org/10.17645/mac.9474">“The EU’s FIMI Turn: How the European Union External Action Service Reframed the Disinformation Fight”</a><br>
+<em>Media and Communication</em> (2025)
+</div>
+
+</div>
+
+
+### Developing Counter-Narratives
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>Organization for Identity and Cultural Development (OICD)</strong><br>
+<em>Reclaiming Our Narratives: A Practical Guide to Countering Identity-Based Disinformation</em><br>
+Emic Press (2025)
+</div>
+
+</div>
+
+#### A Historical Example
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>Peter Pomerantsev</strong><br>
+<em>How to Win an Information War: The Propagandist Who Outwitted Hitler</em><br>
+PublicAffairs (2024)
+</div>
+
+<div class="further-item">
+<strong>Philip J. Costopoulos</strong><br>
+“The Perils of Propaganda”<br>
+<em>Journal of Democracy</em> (2024)
+</div>
+
+</div>
+
+
+### More on Countering Russian Influence
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>House of Commons Library</strong><br>
+<em>Countering Russian Influence in the UK</em><br>
+Research Briefing (2025)
+</div>
+
+<div class="further-item">
+<strong>Ondrej Ditrych and Steven Everts</strong><br>
+<em>Unpowering Russia: How the EU Can Counter and Undermine the Kremlin</em><br>
+EU Institute for Security Studies (2025)
+</div>
+
+</div>
+
+
+### Educational Strategies
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>Cristina M. Arribas, Manuel Gertrudix and Rubén Arcos</strong><br>
+<a href="https://doi.org/10.12688/openreseurope.20160.1">“Preventive Strategies Against Disinformation: A Study on Digital and Information Literacy Activities Led by Fact-Checking Organisations”</a><br>
+<em>Open Research Europe</em> (2025)
+</div>
+
+<div class="further-item">
+<strong>Cristina Ivan</strong><br>
+<a href="https://doi.org/10.1080/08850607.2025.2468611">“Teaching Resilience to Disinformation: A National and European Perspective”</a><br>
+<em>International Journal of Intelligence and CounterIntelligence</em> (2025)
+</div>
+
+</div>
+
+---
+
+[← Back to Weekly Readings](readings.qmd)

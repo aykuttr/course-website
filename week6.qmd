@@ -1,0 +1,149 @@
+---
+title: "Week 06"
+subtitle: "Propaganda Narratives: Symbols, Identities, Indoctrination"
+toc: true
+toc-title: "On this page"
+toc-depth: 3
+toc-expand: true
+---
+
+[← Back to Weekly Readings](readings.qmd)
+
+## Required Reading
+
+### If You Will Read Only One Piece
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1177/00104140211047403">How Soft Propaganda Persuades</a></h3>
+
+<p class="reading-authors">Daniel C. Mattingly and Elaine Yao</p>
+
+<p class="reading-meta"><em>Comparative Political Studies</em> (2022)</p>
+
+</div>
+
+
+### Other Pieces Discussed in the Lecture
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1017/S1537592723002967">Varieties of Indoctrination: The Politicization of Education and the Media around the World</a></h3>
+
+<p class="reading-authors">Anja Neundorf, Eugenia Nazrullaeva, Ksenia Northmore-Ball, Katerina Tertytchnaya and Wooseok Kim</p>
+
+<p class="reading-meta"><em>Perspectives on Politics</em> (2024)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">BOOK</div>
+
+<h3><a href="https://www.bloomsbury.com/uk/memory-makers-9781350280762/">Memory Makers: The Politics of the Past in Putin's Russia</a></h3>
+
+<p class="reading-authors">Jade McGlynn</p>
+
+<p class="reading-meta">Bloomsbury Academic (2023)</p>
+
+<p class="reading-guidance"><strong>Reading guidance:</strong> Chapters 2 and 3.</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1080/1060586X.2023.2202581">Truth with a Z: Disinformation, War in Ukraine, and Russia’s Contradictory Discourse of Imperial Identity</a></h3>
+
+<p class="reading-authors">Vera Tolz and Stephen Hutchings</p>
+
+<p class="reading-meta"><em>Post-Soviet Affairs</em> (2023)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1080/19436149.2020.1732031">The Empire Strikes Back: Propagating AKP’s Ottoman Empire Narrative on Turkish Television</a></h3>
+
+<p class="reading-authors">Senem B. Çevik</p>
+
+<p class="reading-meta"><em>Middle East Critique</em> (2020)</p>
+
+</div>
+
+
+## Further Reading
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>J. Paul Goode</strong><br>
+<a href="https://doi.org/10.1017/nps.2025.28">“Russian Propaganda from V to Z: Projecting Banal and Everyday Nationalism in Unsettled Times”</a><br>
+<em>Nationalities Papers</em> (2026)
+</div>
+
+<div class="further-item">
+<strong>Dechun Zhang</strong><br>
+<a href="https://doi.org/10.4324/9781003776598"><em>Digital Nationalism and Affective Governance: Propaganda, Public Sentiment, and Soft Authoritarianism in China</em></a><br>
+Routledge (2026)<br>
+<strong>Reading guidance:</strong> Chapters 3–6.
+</div>
+
+<div class="further-item">
+<strong>Philipp M. Lutscher, Jonas Bergan Draege and Carl Henrik Knutsen</strong><br>
+<a href="https://www.cambridge.org/core/journals/european-journal-of-political-research/article/effects-of-government-propaganda-in-electoral-authoritarian-regimes-evidence-from-turkey/AB768D7F3CE99CF41805D50A617041B1">“The Effects of Government Propaganda in Electoral Authoritarian Regimes: Evidence from Turkey”</a><br>
+<em>European Journal of Political Research</em> (2026)
+</div>
+
+<div class="further-item">
+<strong>Yağmur Karakaya</strong><br>
+<a href="https://doi.org/10.1057/s41290-018-0065-y">“The Conquest of Hearts: The Central Role of Ottoman Nostalgia within Contemporary Turkish Populism”</a><br>
+<em>American Journal of Cultural Sociology</em> (2020)
+</div>
+
+<div class="further-item">
+<strong>Gulnaz Sharafutdinova</strong><br>
+<a href="https://doi.org/10.1093/oso/9780197502938.001.0001"><em>The Red Mirror: Putin's Leadership and Russia's Insecure Identity</em></a><br>
+Oxford University Press (2020)<br>
+<strong>Reading guidance:</strong> Chapter 2, “The White Knight and the Red Queen.”
+</div>
+
+<div class="further-item">
+<strong>Davide Cantoni, Yuyu Chen, David Y. Yang, Noam Yuchtman and Y. Jane Zhang</strong><br>
+<a href="https://doi.org/10.1086/690951">“Curriculum and Ideology”</a><br>
+<em>Journal of Political Economy</em> (2017)
+</div>
+
+<div class="further-item">
+<strong>David Yanagizawa-Drott</strong><br>
+<a href="https://www.hks.harvard.edu/publications/propaganda-and-conflict-evidence-rwandan-genocide">“Propaganda and Conflict: Evidence from the Rwandan Genocide”</a><br>
+<em>The Quarterly Journal of Economics</em> (2014)
+</div>
+
+<div class="further-item">
+<strong>Centre for New Ideas</strong><br>
+<a href="https://newideas.center/belarusian-state-ideology-textbooks/">“Programme Ideology: Textbooks on the Ideology of the Belarusian State as a Mechanism of Preemptive Authoritarianism”</a><br>
+Research article (2026)
+</div>
+
+<div class="further-item">
+<strong>Alice Mironava</strong><br>
+<a href="https://ideasbank.vision/en/projects/children-of-the-dictatorship-indoctrination-and-militarization-of-belarusian-youth-after-2020/">“Children of the Dictatorship: Indoctrination and Militarization of Belarusian Youth after 2020”</a><br>
+Ideas Bank report (2026)
+</div>
+
+</div>
+
+---
+
+[← Back to Weekly Readings](readings.qmd)

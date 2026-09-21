@@ -1,0 +1,180 @@
+---
+title: "Week 03"
+subtitle: "Propaganda: Definition, History, and Reception"
+toc: true
+toc-title: "On this page"
+toc-depth: 3
+toc-expand: true
+---
+
+[← Back to Weekly Readings](readings.qmd)
+
+## Required Reading
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1080/10584609.2026.2706643">Studying Propaganda as a Social Process</a></h3>
+
+<p class="reading-authors">Christian Baden, Anna Litvinenko and Gregory Asmolov</p>
+
+<p class="reading-meta"><em>Political Communication</em> (2026)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1086/729941">Rethinking Propaganda: How State Media Build Trust through Belief Affirmation</a></h3>
+
+<p class="reading-authors">Anton Shirikov</p>
+
+<p class="reading-meta"><em>The Journal of Politics</em> (2024)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">BOOK</div>
+
+<h3>Propaganda & Persuasion</h3>
+
+<p class="reading-authors">Garth S. Jowett and Victoria O'Donnell</p>
+
+<p class="reading-meta">SAGE, 7th edition (2018)</p>
+
+<p class="reading-guidance"><strong>Reading guidance:</strong> Chapter 1, “What Is Propaganda, and How Does It Differ from Persuasion?”</p>
+
+</div>
+
+
+## Further Reading
+
+### The Definition of Propaganda
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>Amelia Godber and Gloria Origgi</strong><br>
+<a href="https://doi.org/10.1017/epi.2023.10">“Telling Propaganda from Legitimate Political Persuasion”</a><br>
+<em>Episteme</em> (2023)
+</div>
+
+<div class="further-item">
+<strong>Claire Wardle and Hossein Derakhshan</strong><br>
+<a href="https://edoc.coe.int/en/media/7495-information-disorder-toward-an-interdisciplinary-framework-for-research-and-policy-making.html"><em>Information Disorder: Toward an Interdisciplinary Framework for Research and Policy Making</em></a><br>
+Council of Europe (2017)
+</div>
+
+</div>
+
+
+### History of Propaganda
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>David Welch (ed.)</strong><br>
+<a href="https://www.bloomsbury.com/uk/propaganda-power-and-persuasion-9780857737373/"><em>Propaganda, Power and Persuasion: From World War I to WikiLeaks</em></a><br>
+I.B. Tauris (2013)<br>
+<strong>Reading guidance:</strong> Introduction, Chapter 2, and Chapter 5.
+</div>
+
+</div>
+
+
+### The Reception of Propaganda
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>Anton Shirikov</strong><br>
+<a href="https://doi.org/10.1080/10584609.2023.2257618">“Fake News for All: How Citizens Discern Disinformation in Autocracies”</a><br>
+<em>Political Communication</em> (2024)
+</div>
+
+<div class="further-item">
+<strong>Magdalena Wojcieszak, Erik C. Nisbet, Lea Kremer, Golnoosh Behrouzian and Carroll Glynn</strong><br>
+<a href="https://doi.org/10.1177/1940161218808372">“What Drives Media Use in Authoritarian Regimes? Extending Selective Exposure Theory to Iran”</a><br>
+<em>The International Journal of Press/Politics</em> (2019)
+</div>
+
+<div class="further-item">
+<strong>Ashley Blum</strong><br>
+<a href="https://doi.org/10.2139/ssrn.4672426">“Popular Propaganda: Audience Preferences for State and Independent Media in an Informational Autocracy”</a><br>
+SSRN working paper (2024)
+</div>
+
+<div class="further-item">
+<strong>Aaron Erlich, Calvin Garner, Gordon Pennycook and David G. Rand</strong><br>
+<a href="https://doi.org/10.1111/pops.12819">“Does Analytic Thinking Insulate Against Pro-Kremlin Disinformation? Evidence From Ukraine”</a><br>
+<em>Political Psychology</em> (2023)
+</div>
+
+<div class="further-item">
+<strong>Aykut Öztürk, Seda Demiralp, Ugur Ozdemir and Candas Ayan</strong><br>
+<a href="https://doi.org/10.31235/osf.io/kb6g5_v1">“Belief and Resistance: Vulnerability to Authoritarian Disinformation in Turkey and the Effect of Counter-Strategies”</a><br>
+Preprint (2026)
+</div>
+
+<div class="further-item">
+<strong>Ellen Mickiewicz</strong><br>
+<a href="https://doi.org/10.1017/CBO9780511491016"><em>Television, Power, and the Public in Russia</em></a><br>
+Cambridge University Press (2008)
+</div>
+
+</div>
+
+
+### Is Propaganda Effective? The Case of Nazi Propaganda
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>Ulrike Weckel (ed.)</strong><br>
+<a href="https://doi.org/10.3167/9781805390992"><em>Audiences of Nazism: Using Media in the Third Reich</em></a><br>
+Berghahn Books (2023)<br>
+<strong>Reading guidance:</strong> Read the Introduction, “Media and Their Users in Nazi Germany.”
+</div>
+
+<div class="further-item">
+<strong>David Welch</strong><br>
+<em>The Third Reich: Politics and Propaganda</em><br>
+Routledge, 2nd edition (2002)<br>
+<strong>Reading guidance:</strong> Chapter 4.
+</div>
+
+<div class="further-item">
+<strong>Peter Selb and Simon Munzert</strong><br>
+<a href="https://doi.org/10.1017/S0003055418000424">“Examining a Most Likely Case for Strong Campaign Effects: Hitler’s Speeches and the Rise of the Nazi Party, 1927–1933”</a><br>
+<em>American Political Science Review</em> (2018)
+</div>
+
+<div class="further-item">
+<strong>Maja Adena, Ruben Enikolopov, Maria Petrova, Veronica Santarosa and Ekaterina Zhuravskaya</strong><br>
+<a href="https://doi.org/10.1093/qje/qjv030">“Radio and the Rise of the Nazis in Prewar Germany”</a><br>
+<em>The Quarterly Journal of Economics</em> (2015)
+</div>
+
+</div>
+
+
+### Truth Claims of Propaganda
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>Maxim Alyukov and Kristian Lundby Gjerde</strong><br>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6996322">“Faking the Fact-checker: Authoritarian Propaganda and Genre Mimicry in Wartime Russia”</a><br>
+Working paper (2026)
+</div>
+
+</div>
+
+---
+
+[← Back to Weekly Readings](readings.qmd)

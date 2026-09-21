@@ -1,0 +1,201 @@
+---
+title: "Propaganda and Public Diplomacy"
+subtitle: "POLITIC5107 · University of Glasgow"
+toc: false
+---
+
+::: {.index-layout}
+
+::: {.index-main}
+
+## Course Overview
+
+### How do governments persuade, distract, intimidate, and mobilise through communication?
+
+This course examines propaganda, disinformation, and public diplomacy across an unusually wide range of political settings.
+
+Rather than treating propaganda as an abstract or exclusively contemporary phenomenon, we study how it operates across different regimes, historical periods, media systems, and political cultures.
+
+The course ranges from Franco’s Spain, Nazi Germany, and communist Czechoslovakia to Assad’s Syria and contemporary Russia, China, Turkey, Iran, Belarus, and the Gulf states. We also examine opposition and resistance in cases such as Chile and Ukraine, as well as democratic efforts to respond to foreign disinformation across Europe.
+
+Across these cases, we ask how propaganda works, why citizens sometimes believe it and sometimes resist it, how regimes adapt communication to changing media environments, and how opposition actors, journalists, artists, and democratic institutions respond.
+
+
+## Key Questions
+
+- What distinguishes propaganda from persuasion, information, and disinformation?
+- Why do authoritarian regimes invest in propaganda when they can also censor and repress?
+- How do regimes construct narratives around economic performance, identity, history, and national greatness?
+- Why do some citizens believe propaganda while others resist it?
+- Can propaganda demobilise citizens even when they do not believe what they are told?
+- How do opposition movements, journalists, humour, and popular culture challenge authoritarian communication?
+- How do authoritarian states seek to influence foreign publics?
+- How can democratic societies build resilience against foreign disinformation?
+
+
+## Cases Across the Course
+
+<div class="case-grid">
+
+<div class="case-item">
+Russia<br>
+State television, wartime propaganda, political identity, censorship, foreign influence, and opposition media.
+</div>
+
+<div class="case-item">
+China<br>
+State media, censorship, social media propaganda, nationalism, indoctrination, and soft power.
+</div>
+
+<div class="case-item">
+Turkey<br>
+Economic propaganda, historical narratives, media control, opposition communication, and public diplomacy.
+</div>
+
+<div class="case-item">
+Assad’s Syria<br>
+Symbolic politics, authoritarian performance, political communication, and everyday practices of domination.
+</div>
+
+<div class="case-item">
+Spain under Franco<br>
+Regime myth-making, political legitimacy, performance narratives, and representations of prosperity.
+</div>
+
+<div class="case-item">
+Nazi Germany<br>
+Mass propaganda, radio, mobilisation, persuasion, and the problem of propaganda effectiveness.
+</div>
+
+<div class="case-item">
+Communist Czechoslovakia<br>
+Propaganda, popular culture, conformity, and everyday life after the Prague Spring.
+</div>
+
+<div class="case-item">
+Chile under Pinochet<br>
+Opposition campaigning, political communication, and democratic transition.
+</div>
+
+<div class="case-item">
+Rwanda<br>
+Propaganda, mass communication, and political violence.
+</div>
+
+<div class="case-item">
+Ukraine<br>
+Foreign disinformation, wartime communication, resistance, and societal resilience.
+</div>
+
+<div class="case-item">
+Belarus & Hungary<br>
+Indoctrination, education, identity politics, and authoritarian governance.
+</div>
+
+<div class="case-item">
+Iran & the Gulf<br>
+Digital authoritarianism, international communication, and regional influence.
+</div>
+
+</div>
+
+
+## Course Journey
+
+<div class="course-part">
+
+### I. Foundations
+
+Authoritarianism · Disinformation · Media Systems · Propaganda
+
+We begin by examining authoritarian rule, contemporary disinformation, media systems, and the conceptual and historical foundations of propaganda.
+
+</div>
+
+<div class="course-part">
+
+### II. Propaganda at Home
+
+Performance · Economy · Identity · Indoctrination · Demobilisation
+
+We then examine the narratives and communication strategies authoritarian governments use to sustain support, shape political identities, and discourage opposition.
+
+</div>
+
+<div class="course-part">
+
+### III. Resistance
+
+Opposition · Humour · Journalism · Popular Culture
+
+The course turns from authoritarian communication to the actors who challenge it, including opposition movements, independent journalists, satirists, and artists.
+
+</div>
+
+<div class="course-part">
+
+### IV. Propaganda Abroad
+
+Public Diplomacy · Foreign Influence · Disinformation · Resilience
+
+Finally, we examine how authoritarian states communicate beyond their borders and how democratic societies attempt to respond.
+
+</div>
+
+:::
+
+
+::: {.course-books}
+
+## Selected Books
+
+<div class="book-grid">
+
+<div class="book-item">
+<img src="images/books/spin-dictators.avif" alt="Spin Dictators book cover" title="Spin Dictators — Sergei Guriev & Daniel Treisman">
+</div>
+
+<div class="book-item">
+<img src="images/books/dukalskis.jpg" alt="Making the World Safe for Dictatorship book cover" title="Making the World Safe for Dictatorship — Alexander Dukalskis">
+</div>
+
+<div class="book-item">
+<img src="images/books/repnikova_chinese.jpeg" alt="Chinese Soft Power book cover" title="Chinese Soft Power — Maria Repnikova">
+</div>
+
+<div class="book-item">
+<img src="images/books/digitalauthoritarianism.jpeg" alt="Digital Authoritarianism in the Middle East book cover" title="Digital Authoritarianism in the Middle East — Marc Owen Jones">
+</div>
+
+<div class="book-item">
+<img src="images/books/memory-makers.jpeg" alt="Memory Makers book cover" title="Memory Makers — Jade McGlynn">
+</div>
+
+<div class="book-item">
+<img src="images/books/russiadisinformation.jpeg" alt="Russia, Disinformation, and the Liberal Order book cover" title="Russia, Disinformation, and the Liberal Order — Stephen Hutchings et al.">
+</div>
+
+<div class="book-item">
+<img src="images/books/howtowin.jpeg" alt="How to Win an Information War book cover" title="How to Win an Information War — Peter Pomerantsev">
+</div>
+
+<div class="book-item">
+<img src="images/books/franco.avif" alt="Franco: The Biography of the Myth book cover" title="Franco: The Biography of the Myth — Antonio Cazorla Sánchez">
+</div>
+
+<div class="book-item">
+<img src="images/books/greengrocer.avif" alt="The Greengrocer and His TV book cover" title="The Greengrocer and His TV — Paulina Bren">
+</div>
+
+</div>
+
+:::
+
+:::
+
+
+## Explore the Course
+
+The full syllabus is organised week by week, with required readings, further readings, and thematic reading lists.
+
+[Explore the Weekly Readings →](readings.qmd)

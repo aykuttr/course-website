@@ -1,0 +1,75 @@
+---
+title: "Weekly Readings"
+subtitle: "Propaganda and Public Diplomacy"
+toc: false
+---
+
+The course moves from the foundations of authoritarianism and disinformation to the production, reception, and contestation of propaganda, before turning to authoritarian public diplomacy and foreign disinformation.
+
+<div class="week-grid">
+
+<div class="week-card">
+<div class="week-number">WEEK 01</div>
+<h3><a href="week1.html">Authoritarianism and the Problem of Disinformation</a></h3>
+<p>Authoritarian rule, disinformation, propaganda, and public support.</p>
+</div>
+
+<div class="week-card">
+<div class="week-number">WEEK 02</div>
+<h3><a href="week2.html">Media Systems in Authoritarian Regimes</a></h3>
+<p>Media structures, pressures on independent media, and authoritarian communication.</p>
+</div>
+
+<div class="week-card">
+<div class="week-number">WEEK 03</div>
+<h3><a href="week3.html">Propaganda: Definition, History, and Reception</a></h3>
+<p>What propaganda is, how it has developed, and how audiences receive it.</p>
+</div>
+
+<div class="week-card">
+<div class="week-number">WEEK 04</div>
+<h3><a href="week4.html">Propaganda Narratives: Performance and Economy</a></h3>
+<p>How regimes communicate competence, performance, and economic success.</p>
+</div>
+
+<div class="week-break">
+  WEEK 05 · READING WEEK
+</div>
+
+<div class="week-card">
+<div class="week-number">WEEK 06</div>
+<h3><a href="week6.html">Propaganda Narratives: Symbols, Identities, Indoctrination</a></h3>
+<p>Identity, symbolism, ideology, and the deeper social foundations of propaganda.</p>
+</div>
+
+<div class="week-card">
+<div class="week-number">WEEK 07</div>
+<h3><a href="week7.html">Propaganda: Strategies of Demobilization</a></h3>
+<p>How propaganda can discourage participation, generate cynicism, and demobilize audiences.</p>
+</div>
+
+<div class="week-card">
+<div class="week-number">WEEK 08</div>
+<h3><a href="week8.html">Fighting Authoritarian Propaganda</a></h3>
+<p>Opposition communication, humour, journalism, and popular culture.</p>
+</div>
+
+<div class="week-card">
+<div class="week-number">WEEK 09</div>
+<h3><a href="week9.html">Authoritarian Public Diplomacy in the 21st Century</a></h3>
+<p>How authoritarian states communicate with and seek influence over foreign audiences.</p>
+</div>
+
+<div class="week-card">
+<div class="week-number">WEEK 10</div>
+<h3><a href="week10.html">Authoritarian Public Diplomacy and Its Audience</a></h3>
+<p>How foreign audiences encounter, interpret, and respond to authoritarian communication.</p>
+</div>
+
+<div class="week-card">
+<div class="week-number">WEEK 11</div>
+<h3><a href="week11.html">Fighting Foreign Disinformation</a></h3>
+<p>Resilience, counter-narratives, policy responses, and educational strategies.</p>
+</div>
+
+</div>

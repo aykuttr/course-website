@@ -1,0 +1,175 @@
+---
+title: "Week 07"
+subtitle: "Propaganda: Strategies of Demobilization"
+toc: true
+toc-title: "On this page"
+toc-depth: 3
+toc-expand: true
+---
+
+[← Back to Weekly Readings](readings.qmd)
+
+## Lecture Readings
+
+These readings will be covered in the lecture.
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1017/S0003055423000618">Endogenous Popularity: How Perceptions of Support Affect the Popularity of Authoritarian Regimes</a></h3>
+
+<p class="reading-authors">Noah Buckley, Kyle L. Marquardt, Ora John Reuter and Katerina Tertytchnaya</p>
+
+<p class="reading-meta"><em>American Political Science Review</em> (2024)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3>Acting “As If”: Symbolic Politics and Social Control in Syria</h3>
+
+<p class="reading-authors">Lisa Wedeen</p>
+
+<p class="reading-meta"><em>Comparative Studies in Society and History</em> (1998)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3>Propaganda as Signaling</h3>
+
+<p class="reading-authors">Haifeng Huang</p>
+
+<p class="reading-meta"><em>Comparative Politics</em> (2015)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1086/696863">The Pathology of Hard Propaganda</a></h3>
+
+<p class="reading-authors">Haifeng Huang</p>
+
+<p class="reading-meta"><em>The Journal of Politics</em> (2018)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3>How Censorship in China Allows Government Criticism but Silences Collective Expression</h3>
+
+<p class="reading-authors">Gary King, Jennifer Pan and Margaret E. Roberts</p>
+
+<p class="reading-meta"><em>American Political Science Review</em> (2013)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1086/734267">Disguised Repression: Targeting Opponents with Nonpolitical Crimes to Undermine Dissent</a></h3>
+
+<p class="reading-authors">Jennifer Pan, Xu Xu and Yiqing Xu</p>
+
+<p class="reading-meta"><em>The Journal of Politics</em> (2026)</p>
+
+</div>
+
+
+## Further Reading
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>Gary King, Jennifer Pan and Margaret E. Roberts</strong><br>
+<a href="https://doi.org/10.1017/S0003055417000144">“How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, Not Engaged Argument”</a><br>
+<em>American Political Science Review</em> (2017)
+</div>
+
+<div class="further-item">
+<strong>Maxim Alyukov</strong><br>
+<a href="https://doi.org/10.1080/10584609.2023.2196951">“Harnessing Distrust: News, Credibility Heuristics, and War in an Authoritarian Regime”</a><br>
+<em>Political Communication</em> (2023)
+</div>
+
+<div class="further-item">
+<strong>Jane Esberg</strong><br>
+<a href="https://doi.org/10.1017/S000305542000026X">“Censorship as Reward: Evidence from Pop Culture Censorship in Chile”</a><br>
+<em>American Political Science Review</em> (2020)
+</div>
+
+<div class="further-item">
+<strong>Jidong Chen and Yiqing Xu</strong><br>
+“Why Do Authoritarian Regimes Allow Citizens to Voice Opinions Publicly?”<br>
+<em>The Journal of Politics</em> (2017)
+</div>
+
+<div class="further-item">
+<strong>Georgy Egorov, Sergei Guriev and Konstantin Sonin</strong><br>
+<a href="https://doi.org/10.1017/S0003055409990219">“Why Resource-Poor Dictators Allow Freer Media: A Theory and Evidence from Panel Data”</a><br>
+<em>American Political Science Review</em> (2009)
+</div>
+
+<div class="further-item">
+<strong>Chris Edmond</strong><br>
+<a href="https://doi.org/10.1093/restud/rdt020">“Information Manipulation, Coordination, and Regime Change”</a><br>
+<em>The Review of Economic Studies</em> (2013)
+</div>
+
+<div class="further-item">
+<strong>Haifeng Huang, Fangfei Wang and Li Shao</strong><br>
+“How Propaganda Moderates the Influence of Opinion Leaders on Social Media in China”<br>
+<em>International Journal of Communication</em> (2018)
+</div>
+
+<div class="further-item">
+<strong>Andrew T. Little</strong><br>
+<a href="https://doi.org/10.1016/j.geb.2016.12.006">“Propaganda and Credulity”</a><br>
+<em>Games and Economic Behavior</em> (2017)
+</div>
+
+<div class="further-item">
+<strong>Philipp M. Lutscher and Karsten Donnay</strong><br>
+<a href="https://doi.org/10.1177/00223433231220269">“A Difficult Test for Hard Propaganda: Evidence from a Choice Experiment in Venezuela”</a><br>
+<em>Journal of Peace Research</em> (2025)
+</div>
+
+</div>
+
+
+### Propaganda and Entertainment
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>Shouzhi Xia</strong><br>
+<a href="https://doi.org/10.1177/10659129211049389">“Amusing Ourselves to Loyalty? Entertainment, Propaganda, and Regime Resilience in China”</a><br>
+<em>Political Research Quarterly</em> (2022)
+</div>
+
+<div class="further-item">
+<strong>Paulina Bren</strong><br>
+<em>The Greengrocer and His TV: The Culture of Communism after the 1968 Prague Spring</em><br>
+Cornell University Press (2010)
+</div>
+
+</div>
+
+---
+
+[← Back to Weekly Readings](readings.qmd)

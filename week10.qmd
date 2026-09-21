@@ -1,0 +1,125 @@
+---
+title: "Week 10"
+subtitle: "Authoritarian Public Diplomacy and Its Audience"
+toc: true
+toc-title: "On this page"
+toc-depth: 3
+toc-expand: true
+---
+
+[← Back to Weekly Readings](readings.qmd)
+
+## Lecture Readings
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1111/ajps.12887">Chinese State Media Persuades a Global Audience that the “China Model” Is Superior: Evidence from a 19-Country Experiment</a></h3>
+
+<p class="reading-authors">Daniel Mattingly, Trevor Incerti, Changwook Ju, Colin Moreshead, Seiki Tanaka and Hikaru Yamagishi</p>
+
+<p class="reading-meta"><em>American Journal of Political Science</em> (2025)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">BOOK</div>
+
+<h3><a href="https://doi.org/10.7591/cornell/9781501777639.001.0001">Russia, Disinformation, and the Liberal Order: RT as Populist Pariah</a></h3>
+
+<p class="reading-authors">Stephen Hutchings, Vera Tolz, Precious Chatterje-Doody, Rhys Crilley and Marie Gillespie</p>
+
+<p class="reading-meta">Cornell University Press (2024)</p>
+
+<p class="reading-guidance"><strong>Reading guidance:</strong> Read Chapters 6 and 7.</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1111/pops.12819">Does Analytic Thinking Insulate Against Pro-Kremlin Disinformation? Evidence from Ukraine</a></h3>
+
+<p class="reading-authors">Aaron Erlich, Calvin Garner, Gordon Pennycook and David G. Rand</p>
+
+<p class="reading-meta"><em>Political Psychology</em> (2023)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1177/20563051231220330">Falling for Russian Propaganda: Understanding the Factors that Contribute to Belief in Pro-Kremlin Disinformation on Social Media</a></h3>
+
+<p class="reading-authors">Felipe Bonow Soares, Anatoliy Gruzd and Philip Mai</p>
+
+<p class="reading-meta"><em>Social Media + Society</em> (2023)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1080/13510347.2025.2475472">Autocracies Win the Minds of the Democratic Public: How Japanese Citizens Are Persuaded by Illiberal Narratives Propagated by Authoritarian Regimes</a></h3>
+
+<p class="reading-authors">Tetsuro Kobayashi, Yuan Zhou, Lungta Seki and Asako Miura</p>
+
+<p class="reading-meta"><em>Democratization</em> (2025)</p>
+
+</div>
+
+
+## Further Readings
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>David Gilbert</strong><br>
+<a href="https://www.wired.com/story/china-bad-at-disinformation/">“Why China Is So Bad at Disinformation”</a><br>
+<em>WIRED</em> (2024)
+</div>
+
+<div class="further-item">
+<strong>Ken Dilanian and Julia Jester</strong><br>
+<a href="https://www.ms.now/news/banned-ai-generated-iran-propaganda-videos-using-legos-have-gone-viral">“Banned AI-Generated Iran Propaganda Videos Using Legos Have Gone Viral”</a><br>
+<em>MS NOW</em> (2026)
+</div>
+
+<div class="further-item">
+<strong>Aaron Erlich and Calvin Garner</strong><br>
+<a href="https://doi.org/10.1177/19401612211045221">“Is Pro-Kremlin Disinformation Effective? Evidence from Ukraine”</a><br>
+<em>The International Journal of Press/Politics</em> (2023)
+</div>
+
+<div class="further-item">
+<strong>Theodore P. Gerber and Jane Zavisca</strong><br>
+<a href="https://doi.org/10.1080/0163660X.2016.1204398">“Does Russian Propaganda Work?”</a><br>
+<em>The Washington Quarterly</em> (2016)
+</div>
+
+<div class="further-item">
+<strong>Lisa Blaydes</strong><br>
+<a href="https://doi.org/10.1007/s12116-025-09468-0">“Selling” China in the Arab Gulf States: Economic Insecurity and Attitudes Toward Chinese Growth</a><br>
+<em>Studies in Comparative International Development</em> (2025)
+</div>
+
+<div class="further-item">
+<strong>Jay C. Kao</strong><br>
+<a href="https://doi.org/10.1017/S0003055426101476">“How the Pro-Beijing Media Influences Voters: Evidence from a Randomized Field Experiment”</a><br>
+<em>American Political Science Review</em> (2026)
+</div>
+
+</div>
+
+---
+
+[← Back to Weekly Readings](readings.qmd)

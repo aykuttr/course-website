@@ -1,0 +1,177 @@
+---
+title: "Week 04"
+subtitle: "Propaganda Narratives: Performance and Economy"
+toc: true
+toc-title: "On this page"
+toc-depth: 3
+toc-expand: true
+---
+
+[← Back to Weekly Readings](readings.qmd)
+
+## Required Reading
+
+### If You Will Read Only One Piece
+
+<div class="reading-card">
+
+<div class="reading-type">BOOK CHAPTER</div>
+
+<h3>Spin Dictators: The Changing Face of Tyranny in the 21st Century</h3>
+
+<p class="reading-authors">Sergei Guriev and Daniel Treisman</p>
+
+<p class="reading-meta">Princeton University Press (2022)</p>
+
+<p class="reading-guidance"><strong>Reading guidance:</strong> Read Chapter 3, “Postmodern Propaganda.” Also skim Chapter 1.</p>
+
+</div>
+
+
+### Other Readings Discussed in the Lecture
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1086/703208">How Autocrats Manipulate Economic News: Evidence from Russia’s State-Controlled Television</a></h3>
+
+<p class="reading-authors">Arturas Rozenas and Denis Stukal</p>
+
+<p class="reading-meta"><em>The Journal of Politics</em> (2019)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1080/13510347.2023.2232741">Whisper Sweet Nothings to Me Erdoğan: Developmentalist Propaganda, Partisan Emotions, and Economic Evaluations in Turkey</a></h3>
+
+<p class="reading-authors">Aykut Öztürk</p>
+
+<p class="reading-meta"><em>Democratization</em> (2023)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">BOOK CHAPTER</div>
+
+<h3><a href="https://doi.org/10.1093/oso/9780190093488.003.0009">The Logic of Vladimir Putin’s Popular Appeal</a></h3>
+
+<p class="reading-authors">Aleksandar Matovski</p>
+
+<p class="reading-meta">In <em>Citizens and the State in Authoritarian Regimes: Comparing China and Russia</em> (2020)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1177/0010414010394773">Remote Control: How the Media Sustain Authoritarian Rule in China</a></h3>
+
+<p class="reading-authors">Daniela Stockmann and Mary E. Gallagher</p>
+
+<p class="reading-meta"><em>Comparative Political Studies</em> (2011)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1080/1060586X.2019.1639386">When the Party’s Over: Political Blame Attribution under an Electoral Authoritarian Regime</a></h3>
+
+<p class="reading-authors">Elena Sirotkina and Margarita Zavadskaya</p>
+
+<p class="reading-meta"><em>Post-Soviet Affairs</em> (2020)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">ARTICLE</div>
+
+<h3><a href="https://doi.org/10.1080/10584609.2025.2526387">Propaganda during Economic Crises: Reference Point Adjustment in Economic News</a></h3>
+
+<p class="reading-authors">Fatih Serkant Adiguzel</p>
+
+<p class="reading-meta"><em>Political Communication</em> (2026)</p>
+
+</div>
+
+
+<div class="reading-card">
+
+<div class="reading-type">BOOK CHAPTER</div>
+
+<h3>Franco: The Biography of the Myth</h3>
+
+<p class="reading-authors">Antonio Cazorla Sánchez</p>
+
+<p class="reading-meta">Routledge (2013)</p>
+
+<p class="reading-guidance"><strong>Reading guidance:</strong> Chapter 5, “Bestower of Prosperity.”</p>
+
+</div>
+
+
+## Further Reading
+
+<div class="further-reading">
+
+<div class="further-item">
+<strong>Ala’ Alrababa'h and Lisa Blaydes</strong><br>
+<a href="https://doi.org/10.1017/psrm.2020.28">“Authoritarian Media and Diversionary Threats: Lessons from 30 Years of Syrian State Discourse”</a><br>
+<em>Political Science Research and Methods</em> (2021)
+</div>
+
+<div class="further-item">
+<strong>Selim Erdem Aytaç</strong><br>
+<a href="https://doi.org/10.1017/S0003055421000587">“Effectiveness of Incumbent’s Strategic Communication during Economic Crisis under Electoral Authoritarianism: Evidence from Turkey”</a><br>
+<em>American Political Science Review</em> (2021)
+</div>
+
+<div class="further-item">
+<strong>Bryn Rosenfeld</strong><br>
+<a href="https://doi.org/10.1111/ajps.12338">“The Popularity Costs of Economic Crisis under Electoral Authoritarianism: Evidence from Russia”</a><br>
+<em>American Journal of Political Science</em> (2018)
+</div>
+
+<div class="further-item">
+<strong>Hongshen Zhu and Tony Zirui Yang</strong><br>
+<a href="https://doi.org/10.2139/ssrn.4589500">“Doublespeak: Limits of China’s Hard and Soft Propaganda during Political Crises”</a><br>
+Working paper (2023)
+</div>
+
+<div class="further-item">
+<strong>Ashley Esarey</strong><br>
+<a href="https://doi.org/10.1080/10670564.2021.1893555">“Propaganda as a Lens for Assessing Xi Jinping’s Leadership”</a><br>
+<em>Journal of Contemporary China</em> (2021)
+</div>
+
+<div class="further-item">
+<strong>Marc Owen Jones</strong><br>
+<em>Digital Authoritarianism in the Middle East: Deception, Disinformation and Social Media</em><br>
+Hurst (2022)<br>
+<strong>Reading guidance:</strong> Chapter 3, “Making Arabia Great Again: The Evolution of Digital Media Power and Digital Populism in the Gulf.”
+</div>
+
+<div class="further-item">
+<strong>Lanabi La Lova</strong><br>
+<a href="https://doi.org/10.1080/10584609.2024.2380438">“Vladimir Putin on Channel One, 2000–2022”</a><br>
+<em>Political Communication</em> (2025)
+</div>
+
+</div>
+
+---
+
+[← Back to Weekly Readings](readings.qmd)
