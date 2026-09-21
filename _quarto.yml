@@ -1,9 +1,12 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME
 
 website:
   title: "Propaganda and Public Diplomacy"
+  site-url: "https://courses.aozturk.net"
   navbar:
     left:
       - href: index.qmd
